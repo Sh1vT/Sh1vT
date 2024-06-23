@@ -2,17 +2,18 @@
 <hr>
 
 Hey! I'm <b>Shiv Kumar Tiwari</b><br>
- - ✨ <em>Second year college student.</em></center><br>
- - 🏂 <em>Makes projects for fun.</em></center><br>
+ - ✨ <em>Second year college student.</em><br>
+ - 🏂 <em>Makes projects for fun.</em><br>
  - 💻 <em>Burns midnight oil.</em><br>
- - 🎨 <em>Enjoys drawing.</em></center><br>
+ - 🎨 <em>Enjoys drawing.</em><br>
+ - 🚨 <em>Contributing in VSoC'24!
 
 
 </p>
 
 <h2>Recent projects:</h2> 
 
-  - <em><b>MotoFix</b></em>, an android application that retrieves closest mechanics to your location, using <img height="20" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"> <img height="20" title="Cloud Firestore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> <img height="20" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> <img height="20" title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  - <em><b>MotoFix</b></em>, an android application that retrieves closest mechanics to your location, using <img height="20" title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> <img height="20" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"> <img height="20" title="Cloud Firestore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> <img height="20" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> 
           
   - <em><b>WinJ</b></em> (Who is in Jagat), a QoL solution app that solves market needs of students, using <img height="20" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"> <img height="20" title="Cloud Firestore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> <img height="20" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <hr>
