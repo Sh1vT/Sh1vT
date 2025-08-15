@@ -1,11 +1,10 @@
 <h2 align="center" >. . . e x p l <img height="26" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img height="28" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img height="30" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img height="32" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height="34" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img height="34" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img height="34" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img height="34" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> <img height="32" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"> <img height="30" title="Cloud Firestore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> r i n g . . .</h2>
 
 Hey! I'm <b>Shiv Kumar Tiwari</b><br>
- - ✨ <em>Third year college student.</em><br>
+ - ✨ <em>Fourth year college student.</em><br>
  - 🏂 <em>Makes projects for fun.</em><br>
  - 💻 <em>Burns midnight oil.</em><br>
  - 🎨 <em>Enjoys drawing.</em><br>
- - 🚨 <em>Contributing in VSoC'24!</em>
 
 
 </p>
